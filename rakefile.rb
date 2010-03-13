@@ -1,3 +1,3 @@
 #!/usr/bin/env rake
-system("cd orderly && cmake . && cmake && cmake test")
-
+#system("cd orderly && cmake . && cmake && cmake test")
+system("find /")
