@@ -1,3 +1,6 @@
 [submodule "orderly"]
 	path = orderly
 	url = http://github.com/gno/orderly.git
+[submodule "cmake"]
+	path = cmake
+	url = http://git.gitorious.org/cmake/cmake.git
