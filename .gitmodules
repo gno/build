@@ -1,0 +1,3 @@
+[submodule "orderly"]
+	path = orderly
+	url = http://github.com/gno/orderly.git
